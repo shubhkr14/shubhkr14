@@ -14,6 +14,12 @@ Email Me 👉 ✉️ **shubhk1403@gmail.com** 😊
 - 📫 **How to reach me:** shubhk1403@gmail.com
 - ⚡ **Fun fact:** Coding is my mental workout, gym is my physical reset
 
+- <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhk1403@gmail.com) 
 
