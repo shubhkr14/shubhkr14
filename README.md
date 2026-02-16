@@ -16,9 +16,9 @@ Email Me 👉 ✉️ **shubhk1403@gmail.com** 😊
 
 - <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhk1403@gmail.com) 
