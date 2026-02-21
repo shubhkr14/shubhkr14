@@ -1,15 +1,15 @@
 # 💫 Hi 👋, I'm Shubham Kumar
-**Final Year CSE Student | Web Development Enthusiast | Skilled in HTML, CSS, JS | Exploring React & Full-Stack Possibilities**
+**CSE Graduate | Web Development Enthusiast | Skilled in JS | Exploring React & Full-Stack Possibilities with Backend in Spring Boot**
 
 Email Me 👉 ✉️ **shubhk1403@gmail.com** 😊
 
-- 🔭 **I’m currently working on:** Javascript project
-- 🌱 **I’m currently learning:** React
-- 👯 **I’m looking to collaborate on:**  Front-end web projects (HTML, CSS, JavaScript)
-                                         UI/UX-focused websites,
-                                         Open-source front-end contributions,
-                                         Beginner-friendly hackathons or student-led websites
-- 🤔 **I’m looking for help with:** Back-end development (Node.js, Express, or Python), Connecting front-end to APIs and databases, Deploying full-stack apps (using Render, Netlify, Vercel, etc.)
+- 🔭 **I’m currently working on:** Next.js project
+- 🌱 **I’m currently learning:** Next.js
+- 👯 **I’m looking to collaborate on:**  Front-end web projects (HTML, CSS, JavaScript, React) with Backend either in Spring or in express (comfortable in both)
+                                          UI/UX-focused websites,
+                                          Open-source front-end contributions,
+                                          Beginner-friendly hackathons or student-led websites
+- 🤔 **I’m looking for help with:** Back-end development, Connecting front-end to APIs and databases, Deploying full-stack apps (using Render, Netlify, Vercel, etc.)
 - 💬 **Ask me about:** Writing clean and responsive HTML/CSS, JavaScript DOM manipulation, Building basic websites or landing pages, Web design fundamentals
 - 📫 **How to reach me:** shubhk1403@gmail.com
 - ⚡ **Fun fact:** Coding is my mental workout, gym is my physical reset
